@@ -15,7 +15,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 
-#define PORT 8082
+#define PORT 8080
 #define BUFFER_SIZE 2097152
 
 const char *get_file_extension(const char *file_name) {
